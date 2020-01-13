@@ -1,1 +1,1 @@
-DSC 530 Final Project, an exploratory data analysis of wait times of Splash Mountain at Walt Disney World. Data courtesy of touringplans.com.
+Using data provided by [TouringPlans.com](https://touringplans.com/blog/2018/06/25/disney-world-wait-times-available-for-data-science-and-machine-learning/), I took a look at a the wait times for the Walt Disney World attraction, Splash Mountain and analyzed some of the factors that might allow for the prediction of these times.
